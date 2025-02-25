@@ -1,3 +1,3 @@
 # bsgalvan
 
-* sensible `invidious_instance` selection
+* snsible `invidious_instance` selection
